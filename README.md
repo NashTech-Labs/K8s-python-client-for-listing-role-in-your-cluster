@@ -24,7 +24,7 @@ For listing Roles on local cluster e.g minikube we use the following command:
 
 We will use here the Bearer Token which enable requests to authenticate using an access key.
 
-In get_va.py file we have to provide our cluster details for listing Roles:
+In get_role.py file we have to provide our cluster details for listing Roles:
 
 
 Give your cluster details:
